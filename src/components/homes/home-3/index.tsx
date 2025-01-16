@@ -21,18 +21,18 @@ const HomeThree = () => {
       <HeaderThree />
       <HeroHomeThree />
       <AboutHomeThree />
-      <MarqueeTwo />
-      <CoursesHomeThree />
+      {/* <MarqueeTwo /> */}
+      {/* <CoursesHomeThree /> */}
       <ChooseHomeThree />
-      <EventHomeThree />
+      {/* <EventHomeThree /> */}
       <TestimonialHomeThree />
-      <MarqueeTwo />
-      <PartnarsHomeThree />
+      {/* <MarqueeTwo /> */}
+      {/* <PartnarsHomeThree /> */}
       <BlogHomeThree />
       <FaqHomeThree />
-      <InstagramHomeThree />
+      {/* <InstagramHomeThree /> */}
       <CtaHomeThree />
-      <MarqueeTwo />
+      {/* <MarqueeTwo /> */}
       <FooterThree />
     </>
   );

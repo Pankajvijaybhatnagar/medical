@@ -42,7 +42,7 @@ const CoursesHomeThree = () => {
                                     <div className="popular-thumb">
                                         <div className="post-box">
                                             <Link href="/courses-details" className="post-cat">
-                                               1. Business
+                                               1. nursing
                                             </Link>
                                         </div>
                                         <div className="thumb">
