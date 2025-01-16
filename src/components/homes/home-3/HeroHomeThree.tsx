@@ -43,8 +43,7 @@ const HeroHomeThree = () => {
                                             with Cbs Nursing
                                         </h1>
                                         <p data-animation="fadeInUp" data-delay="1.7s">
-                                            Education is the cornerstone of personal and societal development, providing
-                                            individuals with the knowledge, skills, and tools needed
+                                        BDM Nursing College offers the B.Sc Nursing program, an undergraduate degree program that prepares students to become registered nurses.
                                         </p>
                                         <div className="hero-button">
                                             <Link href="/courses-details" data-animation="fadeInUp" data-delay="1.9s" className="theme-btn red-btn">Find Your Best Courses</Link>
