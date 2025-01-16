@@ -115,7 +115,7 @@ const menu_data:DataType[] = [
 	{
 		id: 6,
 		title: "Contact",
-		link: "/contact",
+		link: "/",
     icon: "fas fa-phone-rotary",
 		has_dropdown: false,
 	},
