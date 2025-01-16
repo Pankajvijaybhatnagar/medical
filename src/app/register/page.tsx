@@ -7,7 +7,7 @@ import Register from '@/components/register';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Register - Eduspace - Online Course, Education & University Next JS Template",
+	title: "Register - Cbs Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

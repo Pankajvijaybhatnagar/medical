@@ -50,7 +50,7 @@ const FooterFour = () => {
                                    <h3>Quick Link</h3>
                                 </div>
                                 <ul className="list-area">
-                                    <li><Link href="about">About Eduspace</Link></li>
+                                    <li><Link href="about">About Cbs Nursing</Link></li>
                                     <li><Link href="instructor">Instructors</Link></li>
                                     <li><Link href="/courses">Best Courses</Link></li>
                                     <li><Link href="/contact">Student Reviews</Link></li>
@@ -91,7 +91,7 @@ const FooterFour = () => {
             </div>
             <div className="footer-name style-2">
                 <h2>
-                    Eduspace
+                    Cbs Nursing
                 </h2>
             </div>
         </footer>

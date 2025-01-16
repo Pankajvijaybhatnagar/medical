@@ -5,7 +5,7 @@ import HomeTwo from '@/components/homes/home-2';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Online Course - Eduspace - Online Course, Education & University Next JS Template",
+	title: "Online Course - Cbs Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

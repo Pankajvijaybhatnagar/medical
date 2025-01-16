@@ -14,11 +14,11 @@ const AboutHomeThree = () => {
                             <div className="about-content">
                                 <div className="section-title">
                                     <h6 className="text-white wow fadeInUp">
-                                        About Eduspace
+                                        About Cbs Nursing
                                     </h6>
                                     <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
                                         Learner Something
-                                        about Eduspace
+                                        about Cbs Nursing
                                     </h2>
                                 </div>
                                 <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">

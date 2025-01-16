@@ -6,7 +6,7 @@ import CoursesDetails from '@/components/courses-details';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Courses Details - Eduspace - Online Course, Education & University Next JS Template",
+	title: "Courses Details - Cbs Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

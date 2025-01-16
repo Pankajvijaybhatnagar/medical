@@ -11,7 +11,7 @@ const AboutArea = () => {
                     <div className="row g-4 justify-content-between">
                         <div className="col-lg-6">
                             <div className="section-title mb-0">
-                                <h6 className="wow fadeInUp">About Eduspace</h6>
+                                <h6 className="wow fadeInUp">About Cbs Nursing</h6>
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                     Empowering your Learner for Brighter
                                     Future & busines

@@ -23,10 +23,10 @@ const CtaHomeThree = () => {
                                     Quality Courses & Program
                                 </h6>
                                 <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-                                    Get Your Quality Skills Certificate  Through Eduspace
+                                    Get Your Quality Skills Certificate  Through Cbs Nursing
                                 </h2>
                             </div>
-                            <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".3s">We Provide 2800+ Best Quality Courses From Eduspace</p>
+                            <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".3s">We Provide 2800+ Best Quality Courses From Cbs Nursing</p>
                             <Link href="/courses-details" className="theme-btn wow fadeInUp" data-wow-delay=".3s">
                                 Get Started Now
                             </Link>
