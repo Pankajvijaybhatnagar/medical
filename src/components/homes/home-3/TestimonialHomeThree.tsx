@@ -49,7 +49,7 @@ const TestimonialHomeThree = () => {
                             </div>
                             <div className="content">
                                 <h2><span className="odometer" data-count="48.5"> <Count number={48} text='.5k'  /> </span></h2>
-                                <p>Student Enrolled</p>
+                                <p>Student Enrolled </p>
                             </div>
                         </div>
                         <div className="counter-items wow fadeInUp" data-wow-delay=".4s">

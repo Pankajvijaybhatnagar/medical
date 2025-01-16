@@ -22,7 +22,9 @@ const ChooseHomeThree = () => {
                         </div>
                     </div>
                     <div className="col-xxl-5 col-xl-6 col-lg-6">
-                        <div className="choose-content">
+                        <div style={{
+                            background:'#09224b'
+                        }} className="choose-content">
                             <div className="section-title">
                                 <h6 className="text-white wow fadeInUp">
                                     Why Choose Us

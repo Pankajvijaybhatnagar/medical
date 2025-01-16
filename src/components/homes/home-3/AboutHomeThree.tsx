@@ -24,7 +24,7 @@ const AboutHomeThree = () => {
                                 <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
                                 BDM Nursing College offers the General Nursing and Midwifery Course which is designed for 12th passed students in all streams.
                                 </p>
-                                <Link href="/about" className="theme-btn red-btn wow fadeInUp" data-wow-delay=".3s">Learn About Us</Link>
+                                <Link href="/" className="theme-btn red-btn wow fadeInUp" data-wow-delay=".3s">Learn About Us</Link>
                                 <div className="about-counter-items">
                                     <div className="counter-content wow fadeInUp" data-wow-delay=".3s">
                                         <h3><span className="odometer" data-count="23">
