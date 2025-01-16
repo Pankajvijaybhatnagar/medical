@@ -7,7 +7,7 @@ import ShopCart from '@/components/shop-cart';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Shop Cart - Cbs Nursing - Online Course, Education & University Next JS Template",
+	title: "Shop Cart - CBS College of Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

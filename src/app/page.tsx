@@ -5,7 +5,7 @@ import React from "react";
 // meta data
 
 export const metadata: Metadata = {
-	title: "CBS Nursing",
+	title: "CBS College of Nursing",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

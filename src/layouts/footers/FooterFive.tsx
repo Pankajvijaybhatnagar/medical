@@ -30,7 +30,7 @@ const FooterFive = () => {
                             </h6>
                             <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
                                 Register To Get Quality Business <br />
-                                Courses with Cbs Nursing
+                                Courses with CBS College of Nursing
                             </h2>
                         </div>
                         <Link href="/contact" className="theme-btn mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".3s">Get Started Now</Link>
@@ -64,7 +64,7 @@ const FooterFive = () => {
                         <div className="col-xl-5 col-lg-5 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".4s">
                             <div className="single-footer-widget style-left">
                                 <div className="widget-head">
-                                   <h4>Ready to Get started your business <br /> Coach with Cbs Nursing</h4>
+                                   <h4>Ready to Get started your business <br /> Coach with CBS College of Nursing</h4>
                                 </div>
                                 <div className="contact-list-area">
                                     <ul>

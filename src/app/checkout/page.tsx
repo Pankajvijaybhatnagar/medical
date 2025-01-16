@@ -7,7 +7,7 @@ import Checkout from '@/components/checkout';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Checkout - Cbs Nursing - Online Course, Education & University Next JS Template",
+	title: "Checkout - CBS College of Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

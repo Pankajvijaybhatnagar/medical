@@ -7,7 +7,7 @@ import Contact from '@/components/contact';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Contact - Cbs Nursing - Online Course, Education & University Next JS Template",
+	title: "Contact - CBS College of Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

@@ -91,7 +91,7 @@ const FooterTwo = () => {
                                    <h3>Quick Link</h3>
                                 </div>
                                 <ul className="list-area">
-                                    <li><Link href="/about">About Cbs Nursing</Link></li>
+                                    <li><Link href="/about">About CBS College of Nursing</Link></li>
                                     <li><Link href="/instructor">Instructors</Link></li>
                                     <li><Link href="/courses">Best Courses</Link></li>
                                     <li><Link href="/contact">Student Reviews</Link></li>

@@ -21,7 +21,7 @@ const NewsletterHomeOne = () => {
                             Newsletter Subscribe 
                         </h6>
                         <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-                            Get Started With Cbs Nursing <br />
+                            Get Started With CBS College of Nursing <br />
                             to bright your career!
                         </h2>
                     </div>

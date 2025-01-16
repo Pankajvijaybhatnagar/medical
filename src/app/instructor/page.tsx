@@ -7,7 +7,7 @@ import Instructor from '@/components/instructor';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Instructor - Cbs Nursing - Online Course, Education & University Next JS Template",
+	title: "Instructor - CBS College of Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

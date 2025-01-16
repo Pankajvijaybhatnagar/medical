@@ -30,7 +30,7 @@ const ChooseHomeThree = () => {
                                     Why Choose Us
                                 </h6>
                                 <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-                                    Why Choose Our Cbs Nursing Campus
+                                    Why Choose Our CBS College of Nursing Campus
                                 </h2>
                             </div>
                             <p className="mt-3 mt-md-0 text-white wow fadeInUp" data-wow-delay=".5s">

@@ -37,10 +37,10 @@ const HeroHomeThree = () => {
                             <div className="row g-4 align-items-center justify-content-center">
                                 <div className="col-lg-12">
                                     <div className="hero-content">
-                                        <h6 data-animation="fadeInUp" data-delay="1.3s">welcome to CBS Nursing</h6>
+                                        <h6 data-animation="fadeInUp" data-delay="1.3s">welcome to CBS College of Nursing</h6>
                                         <h1 data-animation="fadeInUp" data-delay="1.5s">
                                             Unlock Your Potential
-                                            with Cbs Nursing
+                                            with CBS College of Nursing
                                         </h1>
                                         <p data-animation="fadeInUp" data-delay="1.7s">
                                         BDM Nursing College offers the B.Sc Nursing program, an undergraduate degree program that prepares students to become registered nurses.
@@ -61,10 +61,10 @@ const HeroHomeThree = () => {
                             <div className="row g-4 align-items-center justify-content-center">
                                 <div className="col-lg-12">
                                     <div className="hero-content">
-                                        <h6 data-animation="fadeInUp" data-delay="1.3s">welcome to CBS Nursing</h6>
+                                        <h6 data-animation="fadeInUp" data-delay="1.3s">welcome to CBS College of Nursing</h6>
                                         <h1 data-animation="fadeInUp" data-delay="1.5s">
                                             Unlock Your Potential
-                                            with Cbs Nursing
+                                            with CBS College of Nursing
                                         </h1>
                                         <p data-animation="fadeInUp" data-delay="1.7s">
                                             Education is the cornerstone of personal and societal development, providing
@@ -86,10 +86,10 @@ const HeroHomeThree = () => {
                             <div className="row g-4 align-items-center justify-content-center">
                                 <div className="col-lg-12">
                                     <div className="hero-content">
-                                        <h6 data-animation="fadeInUp" data-delay="1.3s">welcome to CBS Nursing</h6>
+                                        <h6 data-animation="fadeInUp" data-delay="1.3s">welcome to CBS College of Nursing</h6>
                                         <h1 data-animation="fadeInUp" data-delay="1.5s">
                                             Unlock Your Potential
-                                            with Cbs Nursing
+                                            with CBS College of Nursing
                                         </h1>
                                         <p data-animation="fadeInUp" data-delay="1.7s">
                                             Education is the cornerstone of personal and societal development, providing

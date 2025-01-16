@@ -26,7 +26,7 @@ const AboutHomeFive = () => {
                             <div className="about-content">
                                 <div className="section-title color-blue">
                                     <h6 className="wow fadeInUp">
-                                        About Cbs Nursing
+                                        About CBS College of Nursing
                                     </h6>
                                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                         We Provide Quality Business Coach

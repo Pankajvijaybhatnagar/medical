@@ -12,7 +12,7 @@ const AboutHomeFour = () => {
                             <div className="about-content">
                                 <div className="section-title mb-0 color-pink">
                                     <h6 className="wow fadeInUp">
-                                        About Cbs Nursing
+                                        About CBS College of Nursing
                                     </h6>
                                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                         Building Bright Futures A Journey of Early Education

@@ -7,7 +7,7 @@ import ShopDetails from '@/components/shop-details';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Shop Details - Cbs Nursing - Online Course, Education & University Next JS Template",
+	title: "Shop Details - CBS College of Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };

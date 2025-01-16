@@ -33,7 +33,7 @@ const HeroHomeFour = () => {
                     <div className="col-xl-6 col-lg-6">
                         <div className="hero-content">
                             <h6 className="wow fadeInUp">
-                                welcome to CBS Nursing
+                                welcome to CBS College of Nursing
                             </h6>
                             <h1 className="wow fadeInUp" data-wow-delay=".3s">Growing Young Minds</h1>
                             <p className="wow fadeInUp" data-wow-delay=".5s">

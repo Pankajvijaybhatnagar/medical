@@ -15,7 +15,7 @@ const TestimonialHomeFour = () => {
                         Students Reviews
                     </h6>
                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                        What Students Say Cbs Nursing
+                        What Students Say CBS College of Nursing
                     </h2>
                 </div>
                 <Swiper

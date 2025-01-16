@@ -53,7 +53,7 @@ const FooterOne = ({style_2} : any) => {
                                    <h3>Quick Link</h3>
                                 </div>
                                 <ul className="list-area">
-                                    <li><Link href="/about">About Cbs Nursing</Link></li>
+                                    <li><Link href="/about">About CBS College of Nursing</Link></li>
                                     <li><Link href="/instructor">Instructors</Link></li>
                                     <li><Link href="/courses">Best Courses</Link></li>
                                     <li><Link href="/contact">Student Reviews</Link></li>
@@ -94,7 +94,7 @@ const FooterOne = ({style_2} : any) => {
             </div>
             <div className={`footer-name ${style_2 ? "style-2" : ""}`}>
                 <h2>
-                    Cbs Nursing
+                    CBS College of Nursing
                 </h2>
             </div>
         </footer>

@@ -23,13 +23,13 @@ const HeroHomeOne = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="hero-content">
-                            <span className="wow fadeInUp">welcome to CBS Nursing</span>
+                            <span className="wow fadeInUp">welcome to CBS College of Nursing</span>
                             <h1 className="wow fadeInUp" data-wow-delay=".3s">
                                 Interactive Learning
                                 Engaging Students in
                                 the Digital Age
                             </h1>
-                            <h3 className="wow fadeInUp" data-wow-delay=".5s">Get  2800+ Best Quality Online Courses From Cbs Nursing</h3>
+                            <h3 className="wow fadeInUp" data-wow-delay=".5s">Get  2800+ Best Quality Online Courses From CBS College of Nursing</h3>
                             <div className="hero-button wow fadeInUp" data-wow-delay=".7s">
                                 <Link href="/courses-details" className="theme-btn hover-white">Find Your Best Courses</Link>
                             </div>

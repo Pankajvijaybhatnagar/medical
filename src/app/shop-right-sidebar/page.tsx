@@ -5,7 +5,7 @@ import ShopRightSidebar from '@/components/shop-right-sidebar';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-	title: "Shop Right Sidebar - Cbs Nursing - Online Course, Education & University Next JS Template",
+	title: "Shop Right Sidebar - CBS College of Nursing - Online Course, Education & University Next JS Template",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };
