@@ -28,7 +28,7 @@ const HomeThree = () => {
       <TestimonialHomeThree />
       {/* <MarqueeTwo /> */}
       {/* <PartnarsHomeThree /> */}
-      <BlogHomeThree />
+      {/* <BlogHomeThree /> */}
       <FaqHomeThree />
       {/* <InstagramHomeThree /> */}
       <CtaHomeThree />

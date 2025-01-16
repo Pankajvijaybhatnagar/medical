@@ -39,7 +39,7 @@ const setting = {
 const TestimonialHomeThree = () => {
   return (
     <>
-      <section className="testimonial-section-3 fix pt-0 section-padding bg-cover" style={{background: `url(/assets/img/testimonial/bg.jpg)`, backgroundAttachment: "fixed"}}>
+      <section className="testimonial-section-3 fix pt-0 section-padding bg-cover" style={{background: `url(/assets/img/testimonial/bg2.png)`, backgroundAttachment: "fixed"}}>
             <div className="counter-section-2 section-padding pt-0">
                 <div className="container custom-container">
                     <div className="counter-wrapper-2 bg-cover" style={{background: `url(/assets/img/counter-bg.jpg)`}}>

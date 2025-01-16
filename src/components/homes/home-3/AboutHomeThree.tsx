@@ -22,7 +22,7 @@ const AboutHomeThree = () => {
                                     </h2>
                                 </div>
                                 <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                                    A university is an institution of higher learning that provides students with opportunities for advanced education, research, and personal growth.
+                                BDM Nursing College offers the General Nursing and Midwifery Course which is designed for 12th passed students in all streams.
                                 </p>
                                 <Link href="/about" className="theme-btn red-btn wow fadeInUp" data-wow-delay=".3s">Learn About Us</Link>
                                 <div className="about-counter-items">
