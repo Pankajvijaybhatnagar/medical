@@ -5,7 +5,9 @@ import React from 'react';
 const CtaHomeThree = () => {
   return (
     <>
-       <section className="quality-coureses-section section-padding fix theme-red-bg">
+       <section style={{
+        background:'#09224b'
+       }} className="quality-coureses-section section-padding fix ">
             <div className="container-fluid">
                 <div className="row g-4">
                     <div className="col-xl-2 col-lg-6">
@@ -20,14 +22,14 @@ const CtaHomeThree = () => {
                         <div className="quality-coureses-content text-center">
                             <div className="section-title">
                                 <h6 className="text-white wow fadeInUp">
-                                    Quality Courses & Program
+                                    Quality Courses & Program 
                                 </h6>
                                 <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-                                    Get Your Quality Skills Certificate  Through Cbs Nursing
+                                    Get Your Quality Skills Certificate  Through <br /> CBS Nursing
                                 </h2>
                             </div>
-                            <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".3s">We Provide 2800+ Best Quality Courses From Cbs Nursing</p>
-                            <Link href="/courses-details" className="theme-btn wow fadeInUp" data-wow-delay=".3s">
+                            <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".3s">We Provide  Best Quality Courses From CBS Nursing</p>
+                            <Link href="/" className="theme-btn wow fadeInUp" data-wow-delay=".3s">
                                 Get Started Now
                             </Link>
                         </div>
