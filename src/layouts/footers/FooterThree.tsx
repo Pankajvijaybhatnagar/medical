@@ -19,18 +19,17 @@ const FooterThree = () => {
                             <div className="single-footer-widget">
                                 <div className="widget-head">
                                     <Link href="/">
-                                        <img width={150} src="assets/img/logo/logo.png" alt="img" />
+                                        <img width={200} src="assets/img/logo/logo.png" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="footer-content">
                                     <p>
-                                        Education the foundation personal and societal growth, empowering individuals with knowledge.
+                                    Empowering Minds, Shaping Futures – CBS Group of Institution.
                                     </p>
                                     <div className="social-icon">
                                         <a href="#"><i className="fab fa-facebook-f"></i></a>
                                         <a href="#"><i className="fab fa-instagram"></i></a>
-                                        <a href="#"><i className="fab fa-dribbble"></i></a>
-                                        <a href="#"><i className="fab fa-behance"></i></a>
+                                       
                                         <a href="#"><i className="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
@@ -39,14 +38,12 @@ const FooterThree = () => {
                         <div className="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".4s">
                             <div className="single-footer-widget">
                                 <div className="widget-head">
-                                   <h3>Online Platform</h3>
+                                   <h3>Courses</h3>
                                 </div>
                                 <ul className="list-area">
-                                    <li><Link href="/courses">Coursera</Link></li>
-                                    <li><Link href="/courses">MasterClass</Link></li>
-                                    <li><Link href="/courses">Skillshare</Link></li>
-                                    <li><Link href="/courses">LinkedIn Learning</Link></li>
-                                    <li><Link href="/courses">FutureLearn</Link></li>
+                                    <li><Link href="/">BSc Nursing</Link></li>
+                                    <li><Link href="/">GNM</Link></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -58,14 +55,14 @@ const FooterThree = () => {
                                 <div className="footer-content">
                                     <ul className="contact-info">
                                         <li>
-                                            55 Main Street, 2nd block
-                                            Malborne, Australia
+                                        8 KM. Mile Stone, Jhajjar-Kosli Road,
+                                        Fatehpuri , Jhajjar Delhi-NCR (Haryana)
                                         </li>
                                         <li>
-                                            <a href="mailto:info@example.com" className="link">info@example.com</a>
+                                            <a href="mailto:ceo@cbscolleges.com" className="link">ceo@cbscolleges.com</a>
                                         </li>
                                         <li>
-                                            <a href="tel:+0001238899">+000 (123) 88 99</a>
+                                            <a href="tel:+91-8053111333-444">+91-8053111333-444</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -96,25 +93,21 @@ const FooterThree = () => {
             <div className="footer-bottom style-3">
                 <div className="container">
                     <div className="footer-bottom-wrapper">
-                        <p>Copyright © <Link href="/">Eduspace</Link>, all rights reserved.</p>
+                        <p>Copyright © <Link href="https://bigbyteworld.com/"> Big Byte Innovations Pvt. Ltd.</Link> all rights reserved.</p>
                         <ul className="footer-menu wow fadeInUp" data-wow-delay=".5s">
+                           
                             <li>
-                                <Link href="/courses">
-                                    University 
-                                </Link>
-                            </li>
-                            <li>
-                                <Link href="/faq">
+                                <Link href="/">
                                     FAQs 
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/contact">
+                                <Link href="/">
                                     Privacy Policy
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/event">
+                                <Link href="/">
                                     Events
                                 </Link>
                             </li>
