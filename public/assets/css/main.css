@@ -9283,6 +9283,7 @@ p {
 .testimonial-section-3 {
   position: relative;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 .testimonial-section-3::before {

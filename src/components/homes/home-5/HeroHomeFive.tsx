@@ -26,7 +26,7 @@ const HeroHomeFive = () => {
                     <div className="col-xxl-8 col-xl-7 col-lg-6">
                         <div className="hero-content">
                             <h6 className="text-white wow fadeInUp">
-                                Welcome to Cbs Nursing
+                                welcome to CBS Nursing
                             </h6>
                             <h1 className="text-white wow fadeInUp" data-wow-delay=".3s">
                                 Transformative Business Coaching

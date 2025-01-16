@@ -37,7 +37,7 @@ const menu_data:DataType[] = [
 	{
 		id: 1,
 		title: "Home",
-		link: "/home-3",
+		link: "/",
     icon: "fas fa-home-lg",
 		img_dropdown: false,
 		
