@@ -87,7 +87,7 @@ const HeroHomeThree = () => {
                             <div className="row g-4 align-items-center justify-content-center">
                                 <div className="col-lg-12">
                                     <div className="hero-content">
-                                        <h6 data-animation="fadeInUp" data-delay="1.3s">Welcome to Eduspace</h6>
+                                        <h6 data-animation="fadeInUp" data-delay="1.3s">Welcome to Cbs Nursing</h6>
                                         <h1 data-animation="fadeInUp" data-delay="1.5s">
                                             Unlock Your Potential
                                             with Eduspace
