@@ -45,8 +45,8 @@ const HeroHomeThree = () => {
                                         <p data-animation="fadeInUp" data-delay="1.7s">
                                         BDM Nursing College offers the B.Sc Nursing program, an undergraduate degree program that prepares students to become registered nurses.
                                         </p>
-                                        <div className="hero-button">
-                                            <Link href="/courses-details" data-animation="fadeInUp" data-delay="1.9s" className="theme-btn red-btn">Find Your Best Courses</Link>
+                                        <div className="hero-button" style={{backgroundColor: `#09224b`}}>
+                                            <Link href="/courses-details" data-animation="fadeInUp" data-delay="1.9s" className="" >Find Your Best Courses</Link>
                                         </div>
                                     </div>
                                 </div>
