@@ -5,7 +5,7 @@ import React from "react";
 // meta data
 
 export const metadata: Metadata = {
-	title: "Eduspace - Online Course, Education & University Next JS Template",
+	title: "CBS Nursing",
 	description: "Full Stack Developer",
 	keywords: "Full Stack Developer, at rk-theme",
 };
