@@ -20,12 +20,12 @@ const HeaderThree = () => {
                 <div className="container">
                     <div className="mega-menu-wrapper">
                         <div className="header-main">
-                            <Link href="/" className="header-logo">
+                            {/* <Link href="/" className="header-logo">
                                 <img src="assets/img/logo/white-logo-3.svg" alt="logo-img" />
                             </Link>
                             <Link href="/" className="header-logo-2">
                                 <img src="assets/img/logo/black-logo-3.svg" alt="logo-img" />
-                            </Link>
+                            </Link> */}
                             <div className="header-left">
                                 <div className="mean__menu-wrapper">
                                     <div className="main-menu">
@@ -42,7 +42,7 @@ const HeaderThree = () => {
                                         </button>
                                 </div>
                                 <div className="header-button">
-                                    <Link href="/courses-grid" className="theme-btn">View Courses</Link>
+                                    <Link href="/" className="theme-btn">View Courses</Link>
                                 </div>
                                 <div className="header__hamburger d-xl-none my-auto">
                                     <div className="sidebar__toggle" onClick={ () => setOpenCanvas(!openCanvas)}>
