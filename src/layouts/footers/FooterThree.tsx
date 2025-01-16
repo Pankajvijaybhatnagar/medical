@@ -19,7 +19,7 @@ const FooterThree = () => {
                             <div className="single-footer-widget">
                                 <div className="widget-head">
                                     <Link href="/">
-                                        <img src="assets/img/logo/black-logo-3.svg" alt="img" />
+                                        <img width={150} src="assets/img/logo/logo.png" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="footer-content">
