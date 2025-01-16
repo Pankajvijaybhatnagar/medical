@@ -80,7 +80,7 @@ const HeroHomeThree = () => {
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <div className="slider-bg bg-cover" style={{background: `url(/assets/img/hero/hero-5.jpg)`}}>
+                        <div className="slider-bg bg-cover" style={{background: `url(/assets/img/hero/hero-51.png)`}}>
                             <div className="overlay-bg bg-cover" style={{background: `url(/assets/img/hero/ovelay-bg.png)`}}></div>
                         </div>
                         <div className="container">

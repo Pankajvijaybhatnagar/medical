@@ -19,7 +19,7 @@ const NavMenu = () => {
           {item.img_dropdown && 
               <ul className="submenu has-homemenu">
                   <li>
-                      <div className="homemenu-items">
+                      <div className="homemenu">
                           <div className="row">
                             {item.sub_menus?.map((sub_item, sub_i) => (
                               <div key={sub_i} className="col-lg-3 homemenu">
