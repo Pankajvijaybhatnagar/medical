@@ -47,13 +47,13 @@ const menu_data:DataType[] = [
 		title: "Courses",
 		link: "#",
     icon: "fas fa-book",
-		has_dropdown: false,
+		has_dropdown: true,
 		sub_menus: [
-			{ link: "/courses", title: "Courses" },
-			{ link: "/courses-grid", title: "Courses Grid" },
-			{ link: "/courses-list", title: "Courses List" },
-			{ link: "/courses-details", title: "Courses Details 01" },
-			{ link: "/courses-details-2", title: "Courses Details 02" },
+			// { link: "/courses", title: "Courses" },
+			// { link: "/courses-grid", title: "Courses Grid" },
+			// { link: "/courses-list", title: "Courses List" },
+			{ link: "/courses-details", title: "GNM" },
+			{ link: "/courses-details-2", title: "BSc Nursing" },
 		],
 	},
 	{
@@ -85,9 +85,9 @@ const menu_data:DataType[] = [
 	// },
 	{
 		id: 5,
-		title: "Pages",
-		link: "#",
-    icon: "fas fa-file-alt",
+		title: "About",
+		link: "/",
+    icon: "fas fa-user-alt",
 		has_dropdown: false,
 		has_dropdown_inner: true,
 		sub_menus: [

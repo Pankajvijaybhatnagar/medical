@@ -15,7 +15,7 @@ const HeaderThree = () => {
 
   return (
     <>
-       <header className="header-section-3">
+       <header className="header-section-3" style={{backgroundColor:'#031F42'}}>
             <div id="header-sticky" className={`header-3 ${sticky ? "sticky" : ""}`}>
                 <div className="container">
                     <div className="mega-menu-wrapper">
