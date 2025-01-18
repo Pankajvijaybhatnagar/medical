@@ -19,7 +19,7 @@ const CoursesDetailsTwoArea = () => {
         <div className="container">
           <div className="courses-details-wrapper">
             <div className="courses-image">
-              <img src="assets/img/courses/details-2.jpg" alt="img" />
+              <img src="assets/img/courses/details-4.jpg" alt="img" />
               <a
                 onClick={() => setIsVideoOpen(true)}
                 style={{ cursor: "pointer" }}
@@ -617,9 +617,9 @@ const CoursesDetailsTwoArea = () => {
                 <div className="courses-sidebar-area">
                   <div className="courses-items">
                     <div className="courses-image">
-                      <img src="assets/img/courses/22.jpg" alt="img" />
-                      <h3 className="courses-title">Development</h3>
-                      <h4 className="topic-title">Web Development</h4>
+                      <img src="assets/img/courses/23.jpg" alt="img" />
+                      <h3 className="courses-title">BSc Nursing</h3>
+                      <h4 className="topic-title"></h4>
                       <div className="arrow-items">
                         <div className="GlidingArrow">
                           <img src="assets/img/courses/a1.png" alt="img" />
