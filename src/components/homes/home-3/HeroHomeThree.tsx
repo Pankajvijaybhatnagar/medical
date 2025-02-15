@@ -43,7 +43,7 @@ const HeroHomeThree = () => {
                                             with CBS College of Nursing
                                         </h1>
                                         <p data-animation="fadeInUp" data-delay="1.7s">
-                                        BDM Nursing College offers the B.Sc Nursing program, an undergraduate degree program that prepares students to become registered nurses.
+                                        CBS College of Nursing offers the B.Sc Nursing program, an undergraduate degree program that prepares students to become registered nurses.
                                         </p>
                                         <div className="hero-button" >
                                             <Link href="/courses-details" data-animation="fadeInUp" data-delay="1.9s" className="theme-btn red-btn" >Find Your Best Courses</Link>

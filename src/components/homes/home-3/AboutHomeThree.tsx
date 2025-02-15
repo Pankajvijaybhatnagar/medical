@@ -22,7 +22,7 @@ const AboutHomeThree = () => {
                                     </h2>
                                 </div>
                                 <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                                BDM Nursing College offers the General Nursing and Midwifery Course which is designed for 12th passed students in all streams.
+                                CBS College of Nursing offers the General Nursing and Midwifery Course which is designed for 12th passed students in all streams.
                                 </p>
                                 <Link href="/" className="theme-btn red-btn wow fadeInUp" data-wow-delay=".3s">Learn About Us</Link>
                                 <div className="about-counter-items">
